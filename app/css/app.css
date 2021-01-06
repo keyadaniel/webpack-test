@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+    font-family: sans-serif;
+}
+
+/* pound signs indicate ids! */
+#greeting{
+    color: grey;
+}
